@@ -9,4 +9,4 @@ Mini Projeto: **Lista de Tarefas** com Intuito de treinar alguns conceitos de Ja
 - HTML
 - CSS
 
-[🔗 Clique aqui para acessar](https://wevertonvcp.github.io//)
+[🔗 Clique aqui para acessar](https://wevertonvcp.github.io/Lista-de-tarefas/)
